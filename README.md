@@ -2,7 +2,7 @@
 
 Official public binary distribution repository for **VaultSeal** by [Kronware](https://kronware.io/vaultseal/).
 
-### Latest Version: `1.0.222` (Build 222)
+### Latest Version: `1.0.224` (Build 224)
 
 - 🪟 **[Download Windows Setup Installer (.exe)](https://github.com/Kronware/VaultSeal-Releases/raw/main/vaultseal-windows-setup.exe)**
 - 🐧 **[Download Linux Debian Package (.deb)](https://github.com/Kronware/VaultSeal-Releases/raw/main/vaultseal-linux-amd64.deb)**
