@@ -1,0 +1,14 @@
+=================================================
+VaultSeal Release Summary
+=================================================
+Version Code:   210
+Version Name:   1.0.210
+Build Target:   all
+Build Date:     2026-09-11T00:10:30Z
+Git Commit:     315c5fb1d9cb489bc269737677fd31172ecc5fd9
+
+Artifacts:
+  - vaultseal-v1.0.210-210.aab (15M, SHA256: bb415373081bcf6d54134c627c961ba4159b873e66a01a284cb2759234b79206)
+  - vaultseal-v1.0.210-210.apk (9.0M, SHA256: a043f9995d87c980f3a69ca5208ba54fe1d640c45e4f431ea6f544fd092d3228)
+  - vaultseal-v1.0.210-210-linux-amd64.deb (114M, SHA256: ee7ca2cbba81a1c6b0d5acaba034e32cffd1973607c2415ec6287447159aef8c)
+  - vaultseal-v1.0.210-210-windows-setup.exe (94M, SHA256: 3b2c0c671a5e80485de47af77243e4a5f4e894b05a6cfd1a30f37f450dbc6834)
