@@ -6,7 +6,10 @@ Official public binary distribution repository for **VaultSeal** by [Kronware](h
 
 - 🪟 **[Download Windows Setup Installer (.exe)](https://github.com/Kronware/VaultSeal-Releases/raw/main/vaultseal-windows-setup.exe)**
 - 🐧 **[Download Linux Debian Package (.deb)](https://github.com/Kronware/VaultSeal-Releases/raw/main/vaultseal-linux-amd64.deb)**
+- 📦 **[Download Linux Flatpak payload (.jar)](https://github.com/Kronware/VaultSeal-Releases/raw/main/vaultseal-desktop.jar)**
 - 📱 **[Download Android APK (.apk)](https://github.com/Kronware/VaultSeal-Releases/raw/main/vaultseal.apk)**
 
 ---
+Flatpak packaging metadata is in [`flatpak/`](flatpak/). The published artifacts contain no VaultSeal source code.
+
 For documentation, privacy policy, and features, visit [kronware.io/vaultseal](https://kronware.io/vaultseal/).

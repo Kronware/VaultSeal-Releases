@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=VaultSeal
+Comment=Encrypted local vault for files and media
+Exec=app.kronware.VaultSeal
+Icon=app.kronware.VaultSeal
+Type=Application
+Categories=Utility;Security;
+StartupWMClass=VaultSeal
+Terminal=false

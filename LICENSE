@@ -1,0 +1,14 @@
+VaultSeal Proprietary Distribution License
+Copyright (c) 2026 Kronware. All rights reserved.
+
+VaultSeal is proprietary software. This repository distributes compiled VaultSeal
+artifacts only and does not grant access to VaultSeal source code.
+
+You may download, install, and run unmodified VaultSeal binaries obtained from
+Kronware's official distribution channels for personal or internal business use.
+You may not copy, modify, reverse engineer, redistribute, sublicense, or use
+VaultSeal to create derivative works, except to the extent those restrictions are
+prohibited by applicable law.
+
+Third-party components included in a VaultSeal binary remain subject to their
+respective license terms and notices.
