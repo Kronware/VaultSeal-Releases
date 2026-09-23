@@ -19,7 +19,7 @@ modules:
       - install -Dm644 VaultSeal.jar /app/share/vaultseal/VaultSeal.jar
       - install -Dm644 app.kronware.VaultSeal.desktop /app/share/applications/app.kronware.VaultSeal.desktop
       - install -Dm644 app.kronware.VaultSeal.metainfo.xml /app/share/metainfo/app.kronware.VaultSeal.metainfo.xml
-      - install -Dm644 app.kronware.VaultSeal.png /app/share/icons/hicolor/192x192/apps/app.kronware.VaultSeal.png
+      - install -Dm644 app.kronware.VaultSeal.png /app/share/icons/hicolor/128x128/apps/app.kronware.VaultSeal.png
       - install -d /app/lib/vaultseal/runtime
       - tar -xzf OpenJDK17U-jre_x64_linux_hotspot_17.0.20.1_1.tar.gz --strip-components=1 -C /app/lib/vaultseal/runtime
     sources:
@@ -27,9 +27,10 @@ modules:
         url: https://github.com/Kronware/VaultSeal-Releases/releases/download/v1.0.261/vaultseal-desktop.jar
         sha256: 1567282bcfdf9b1c15adc1ebba02b721ba7fdcbc90252f4f2c621125001030fc
         dest-filename: VaultSeal.jar
-      - type: archive
+      - type: file
         url: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_x64_linux_hotspot_17.0.20.1_1.tar.gz
         sha256: 0b2b640e3046b64c8ec504de0ab9d91bb5610182bda21fad454681ce54d45a62
+        dest-filename: OpenJDK17U-jre_x64_linux_hotspot_17.0.20.1_1.tar.gz
       - type: file
         path: app.kronware.VaultSeal
       - type: file
