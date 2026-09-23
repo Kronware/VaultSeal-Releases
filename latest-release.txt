@@ -1,14 +1,14 @@
 =================================================
 VaultSeal Release Summary
 =================================================
-Version Code:   261
-Version Name:   1.0.261
-Build Target:   all
-Build Date:     2026-09-23T14:14:51Z
-Git Commit:     1afe758561bcdee8135dd81ad270c58be13ee986
+Version Code:   269
+Version Name:   1.0.269
+Build Target:   desktop
+Build Date:     2026-09-23T15:22:18Z
+Git Commit:     aae7b778b173f4966fd7bb484336b9a00b4a5919
 
 Artifacts:
   - vaultseal-v1.0.261-261.aab (16M, SHA256: f94f78cd2fd65228851aec9d54e994d7174becdc2fb3b18bd88dee6dfe752bfd)
   - vaultseal-v1.0.261-261.apk (11M, SHA256: 14383c445a6a49b40987c9d5ea450928063fcf42c464b27275630b9e705518d4)
-  - vaultseal-v1.0.261-261-linux-amd64.deb (115M, SHA256: ea83ad28880617431751a4835999c39cbe0c802d2b59ea219e397eb85be8c6a2)
-  - vaultseal-v1.0.261-261-windows-setup.exe (116M, SHA256: 5936b332c1c6793e1a7b973ee2a41b73d0eb2df6234be4693c9213793cfea9a8)
+  - vaultseal-v1.0.269-269-linux-amd64.deb (115M, SHA256: 343142f57340d90138f597067491656d84e9cb527040bb08cbe5f5a2fddd354a)
+  - vaultseal-v1.0.269-269-windows-setup.exe (116M, SHA256: 8a6dc91fdcbd54f16c3a3f5f7f0df6d6860d6d46125b71165fed5a1b6be3a969)
