@@ -29,7 +29,7 @@ modules:
         dest-filename: VaultSeal.jar
       - type: archive
         url: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_x64_linux_hotspot_17.0.20.1_1.tar.gz
-        sha256: 1567282bcfdf9b1c15adc1ebba02b721ba7fdcbc90252f4f2c621125001030fc
+        sha256: 0b2b640e3046b64c8ec504de0ab9d91bb5610182bda21fad454681ce54d45a62
       - type: file
         path: app.kronware.VaultSeal
       - type: file
