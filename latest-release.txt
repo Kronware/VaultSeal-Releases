@@ -4,7 +4,7 @@ VaultSeal Release Summary
 Version Code:   254
 Version Name:   1.0.254
 Build Target:   windows
-Build Date:     2026-09-23T13:44:09Z
+Build Date:     2026-09-23T13:46:05Z
 Git Commit:     09ffe93462541a3b43445742d1dd43b13bc4a500
 
 Artifacts:
