@@ -6,7 +6,7 @@ command: app.kronware.VaultSeal
 finish-args:
   - --share=ipc
   - --share=network
-  - --socket=fallback-x11
+  - --socket=x11
   - --socket=wayland
   - --device=dri
   - --filesystem=home
