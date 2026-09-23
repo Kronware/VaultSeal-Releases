@@ -4,7 +4,7 @@ VaultSeal Release Summary
 Version Code:   250
 Version Name:   1.0.250
 Build Target:   windows
-Build Date:     2026-09-23T13:17:49Z
+Build Date:     2026-09-23T13:19:49Z
 Git Commit:     38fee6134f2b1310d8c51ad462cc24e414113947
 
 Artifacts:
