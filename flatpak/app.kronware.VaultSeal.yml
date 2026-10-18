@@ -24,8 +24,8 @@ modules:
       - tar -xzf OpenJDK17U-jre_x64_linux_hotspot_17.0.20.1_1.tar.gz --strip-components=1 -C /app/lib/vaultseal/runtime
     sources:
       - type: file
-        url: https://media.githubusercontent.com/media/Kronware/VaultSeal-Releases/5c663e987836b22bd012076b186614e4b348804e/vaultseal-desktop.jar
-        sha256: 008153d18cc0a9b18a752b44ac82783242078f358ffe0966a99428a3f6b2583c
+        url: https://media.githubusercontent.com/media/Kronware/VaultSeal-Releases/8085f4e1ef708602b346f6b7d1159b736e6ee8a8/vaultseal-desktop.jar
+        sha256: d46d54290546d631a4acb23cd2bd94c5d02d23f25113815006ed17444e1d8d7b
         dest-filename: VaultSeal.jar
       - type: file
         url: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_x64_linux_hotspot_17.0.20.1_1.tar.gz
